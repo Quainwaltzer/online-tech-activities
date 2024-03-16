@@ -91,7 +91,7 @@ p{
 #header form input{
 	padding: 6px 35px 6px 6px;
 	border: 1.5px solid gray;
-	background: white url(..boldflexbox/img/magnifying-glass.png) no-repeat 96% 50%;
+	background: white url(../img/magnifying-glass.png) no-repeat 96% 50%;
 	height: 30px;
 }
 
