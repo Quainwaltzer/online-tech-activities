@@ -286,7 +286,7 @@ li{
 
 .latest-works-images > li{
 	position: relative;
-	overflow: hidden;
+	overflow: show;
 }
 
 .latest-works-images > li > img{
@@ -708,6 +708,15 @@ li{
 		display: block;
 		width: 50px;
 	
+	}
+
+	.overlay{
+		width: 150px;
+		padding: 10px 13px;
+	}
+
+	.overlay > img{
+		height: 40px;
 	}
 
 	.latest-works-images > li img{
