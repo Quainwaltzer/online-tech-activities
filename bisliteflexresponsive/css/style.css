@@ -280,11 +280,41 @@ li{
 	margin: 0 auto;
 	margin-top: 20px;
 	max-width: 1280px;
+	position: relative;
+	height: auto;
 }
 
-.latest-works-images > li img{
+.latest-works-images > li{
+	position: relative;
+	overflow: hidden;
+}
+
+.latest-works-images > li > img{
 	width: 270px;
 }
+
+.latest-works-images > li:hover .overlay{
+	top: 96px;
+}
+
+.overlay{
+	 background: #28adc8;
+	 position: absolute;
+	 display: flex;
+	 padding: 25px 65px;
+	 height: 50%;
+	 width: 270px;
+	 top:200px;
+	 z-index: 1;
+	 transition: ease-in-out 0.5s ;
+}
+
+
+
+.overlay > img{
+	height: 50px;
+}
+
 
 .credits-wrapper{
 	display:flex;
