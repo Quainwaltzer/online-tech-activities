@@ -88,6 +88,7 @@ li{
         justify-content: center;
         align-items: center;
         gap: 30px;
+        flex-wrap: wrap;
     }
 
     .choices > li{
@@ -126,7 +127,9 @@ li{
         transition: transform 1s ease, background-color 1s ease;
     }
 
-   
+    .choices:nth-child(3){
+        font-size: 5px;
+    }
 
     .choices >li:hover .overlay{
       transform: scale(1.5);
@@ -177,6 +180,12 @@ li{
                             <a href=../boldflexbox/index.html><img src="Choose.jpg"></a>
                                 <div class="overlay">
                                     <h1><a href="../boldflexbox/index.html">Bold<br> (Flexbox)</a></h1>
+                                </div>
+                        </li>
+                        <li>
+                            <a href=../bisliteflexresponsive/index.html><img src="Choose.jpg"></a>
+                                <div class="overlay">
+                                    <h1><a href="../bisliteflexresponsive/index.html">BisLite</a></h1>
                                 </div>
                         </li>
                     </ul>
