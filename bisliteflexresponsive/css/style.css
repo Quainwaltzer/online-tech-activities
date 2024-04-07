@@ -286,7 +286,7 @@ li{
 
 .latest-works-images > li{
 	position: relative;
-	overflow: show;
+	overflow: hidden;
 }
 
 .latest-works-images > li > img{
