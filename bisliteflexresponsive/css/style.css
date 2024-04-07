@@ -90,7 +90,7 @@ li{
 }
 
 .services{
-	background: url(../img/arrow-down.png) no-repeat right;
+	background: url(../bisliteflexresponsive/img/arrow-down.png) no-repeat right;
 	padding: 10px;
 	padding-right: 15px;
 }
@@ -129,7 +129,7 @@ li{
 	}	
   
   .dropdown:hover .services {
-	background: white url(../img/arrow-down.png) no-repeat right;
+	background: white url(../bisliteflexresponsive/img/arrow-down.png) no-repeat right;
 	border-top: 3px solid #28adc8;
 	color:#28adc8;
 	}
@@ -198,12 +198,12 @@ li{
 
 .description-lists a{
 	color:#28adc8;
-	background: url(../img/arrow-black.png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/arrow-black.png) no-repeat left;
 	padding-left: 10px;
 }
 
 .clean{
-	background: url(../img/icon\ \(1\).png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/icon\ \(1\).png) no-repeat left;
 	height: 42px;
 	text-align: center;
 	padding: 12px 0;
@@ -211,7 +211,7 @@ li{
 }
 
 .responsive{
-	background: url(../img/icon\ \(2\).png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/icon\ \(2\).png) no-repeat left;
 	height: 42px;
 	text-align: center;
 	padding: 12px 0;
@@ -219,7 +219,7 @@ li{
 }
 
 .layered{
-	background: url(../img/icon\ \(3\).png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/icon\ \(3\).png) no-repeat left;
 	height: 42px;
 	text-align: center;
 	padding: 12px 0;
@@ -227,7 +227,7 @@ li{
 }
 
 .coding{
-	background: url(../img/icon\ \(4\).png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/icon\ \(4\).png) no-repeat left;
 	height: 42px;
 	text-align: center;
 	padding: 12px 0;
@@ -260,7 +260,7 @@ li{
 }
 
 .latest-works-header-main h3{
-	background: url(../img/pointer.png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/pointer.png) no-repeat left;
 	padding-left: 30px;
 }
 
@@ -301,7 +301,7 @@ li{
 }
 
 .testimonials h3:first-child{
-	background: url(../img/bubble.jpg) no-repeat left;
+	background: url(../bisliteflexresponsive/img/bubble.jpg) no-repeat left;
 	padding-left: 40px;
 }
 
@@ -331,7 +331,7 @@ li{
 }
 
 .clients > h3{
-	background: url(../img/user.png) no-repeat left;
+	background: url(../bisliteflexresponsive/img/user.png) no-repeat left;
 	padding-left: 30px;
 }
 
@@ -373,7 +373,7 @@ li{
 }
 
 .download li:last-child > a{
-	background: url(../img/arrow-download.png) no-repeat;
+	background: url(../bisliteflexresponsive/img/arrow-download.png) no-repeat;
 	background-position: 30px;
 	width:300px;
 	height: 70px;
