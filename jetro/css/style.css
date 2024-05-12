@@ -141,6 +141,7 @@ a:link, a:visited, a:active{
 .thumbnail img{
 	max-width: 140px;
 	max-height: 120px;
+	cursor: pointer;
 }
 
 .sliders{
@@ -585,6 +586,7 @@ a:link, a:visited, a:active{
 	border-radius: 50px;
 	margin-top: 20px;
 	text-align: center;
+	cursor:pointer;
 }
 
 .rotate{
@@ -626,6 +628,7 @@ display: none;
 		max-height: 40px;
 		border-right: 3px solid white;
 		transition: transform 0.3s ease;
+		cursor:pointer;
 	}
 
 	.rotate{
