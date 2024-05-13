@@ -39,10 +39,6 @@ $(".rotate-arrow").click(function(){
 
 $(".jetrotoggle").click(function(){
      $(".navigation").slideToggle();
-    $(".navigation").toggleClass('navigation-off');
-    if( $(".navigation").hasClass('navigation-off')){
-        $(".navigation").css({'display': 'flex' , 'transition' : 'transform, 0.3s, ease'});
-    }
    $(this).toggleClass('rotate');
 });
 
